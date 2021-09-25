@@ -1,0 +1,93 @@
+#ssd{background-color:gray;
+}
+
+#mynavbar{color:green;
+}
+
+#div6 {color:green !important;
+}
+
+#ssd10{text-align:center;color:green;box-shadow:red 5px 5px 5px inset;
+}
+
+
+
+html {background-image:url(pricing-card-bg.jpeg)}
+
+#div2{position:fixed;border:5px solid purple;padding:10px; right:60px;color:green;
+font-size:35px}
+
+p{
+
+color:white;font-size:20px;
+
+}
+
+h1{color:gray;box-shadow:7px 18px 50px #555 inset;max-width:200px}
+
+h5{font-size:15px;color:white;}
+#ssd2{color:green;}
+
+
+
+
+
+			background:gray;
+			margin:0;
+		}
+
+.content{width: 100%;
+	max-width: 960px;
+	margin: auto;
+
+}
+.flex-content{
+background: #fff;
+	display: flex;
+flex-wrap:wrap; /*wrap-reverce*/
+
+}
+
+
+.item{
+height: 100px;
+color: white;
+width: 200px;
+
+}
+
+.first{background: red;
+
+flex-shrink: 3;
+
+}
+
+
+.second{background: green;
+
+flex-shrink: 5;
+}
+
+.third{background:orange;
+flex-shrink: 1
+}
+
+
+
+
+
+
+.div11{
+
+font-size:50px;
+text-align:center;
+color:pink;
+
+animation-name: changecolor;
+animation-duration: 3s;
+animation-iteration-count: 2;
+}
+@keyframes changecolor{
+	0%{background: green;right: 0px;}
+	100%{background: red;right:  100px}
+}

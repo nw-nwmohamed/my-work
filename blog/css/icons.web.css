@@ -1,0 +1,38 @@
+.ssd1{
+	border:2px solid green;
+	width: 20px;
+	height: 20px;
+	background:yellow;
+border-radius: 20px;
+padding: 0px
+}
+
+
+
+
+
+.ssd2{
+
+	width: 150px;
+	height: 150px;
+	
+}
+
+
+
+.icons2{
+	position: absolute;
+	margin: 0px 400px 0px;
+	border-radius: 20px
+}
+
+
+.icons1111 {
+background: green;
+text-align: center;
+width: 200px;
+height: 180px;
+margin-left: 400px;
+border:5px solid rgba(225,225,225) ;
+
+}

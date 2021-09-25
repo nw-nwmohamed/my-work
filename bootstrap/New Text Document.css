@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&display=swap');
+
+body{
+	background-color: #666!important;
+font-family: 'Space Grotesk', sans-serif;
+}
+.carousel-inner img{
+	width: 100%;
+	 height: 400px;
+}
+
+.carousel-inner h1{
+	text-shadow: 5px 5px #000;
+}
+
+.carousel-inner .carousel-caption{
+	background: rgba(200,200,200,0.3);
+	border-radius: 7px;
+}
+
+code{
+	font-size: 135% !important;
+}
+
+#cod1{
+	text-align: center !important;
+}
+
+
+.img2{
+	width: 30px;
+	height: 30px;
+	border: 2px;
+	border-radius: 15px
+}
+ 
+ .card-img-top{
+ 	border-radius: 40px;
+ }
+
+.div1{
+
+	border:20px !important;
+}
+
+.fixedimg{
+	background-attachment: fixed;
+	background-size: cover;
+	height: 250px;
+}
+
+.fixedimg1{
+	background-image: url(img/44.jpg);
+}
+
+
+.fixedimg2{
+	background-image: url(img/49268-1.jpg);
+}
+

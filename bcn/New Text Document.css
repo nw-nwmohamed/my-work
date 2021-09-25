@@ -1,0 +1,120 @@
+
+html{background-image:url(people-office-group-team_small.jpg);
+
+}
+
+
+body{
+
+	
+}
+.content{width: 200%;
+	max-width:1000px;
+
+	margin: auto;
+background: orange;
+}
+.flex-content{
+	display: flex;
+flex-wrap:wrap; /*wrap-reverce*/
+
+
+}
+
+.item{
+background: grey;
+height: 100px;
+color: white;
+width: 100px;
+margin: 50px;
+text-align: center;
+box-shadow: 5px 5px 5px ;
+text-shadow:5px 5px  5px;
+}
+
+.item1{
+
+}
+
+.item2{
+
+
+}
+
+.item3{
+
+}
+
+.item4{
+
+}
+
+.item5{
+
+}
+
+
+.input-group{
+text-align: center;
+background:grey;
+
+}
+
+
+.content2{
+margin: 5px 0px ;
+
+}
+
+.flex-content2{
+display: flex;
+flex-wrap: wrap;
+}
+
+.box{
+width: 100px;
+height: 100px;
+color: white;}
+
+
+.red.box{background: red;
+
+}
+
+.blue.box{background: blue;
+          }
+.green.box{background: green}
+
+
+.black.box{background: black; 
+	       display: none;
+}
+
+.orange.box{
+	background: orange; display: none;;
+}
+
+.position{
+
+
+}
+
+
+#div11{
+text-align: center;
+
+	color: brown;
+	font-size: 30px;
+	animation-name:  changecolor;
+	animation-duration: 5s;
+	animation-iteration-count: 2;
+	}
+		@keyframes changecolor{
+	0%{color:green;left: 0px}     
+	25%{color: red; left: 25px}
+	50%{color: yellow; left: 50px}
+	75%{color:  green; left: 100px}
+
+}
+
+
